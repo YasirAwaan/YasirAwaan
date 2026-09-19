@@ -131,6 +131,10 @@ I'm **Yasir Awan**, a passionate Frontend Developer from **Pakistan** who enjoys
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/YasirAwaan/YasirAwaan/refs/heads/main/assets"
+       width="100%"
+       alt="GitHub Contribution Snake">
+
 </div>
 
 ---
