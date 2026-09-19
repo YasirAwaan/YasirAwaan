@@ -133,7 +133,7 @@ I'm **Yasir Awan**, a passionate Frontend Developer from **Pakistan** who enjoys
 
 <a href="https://github.com/yasirawaan">
 
-<img src="https://streak-stats.demolab.com/?user=yasirawaan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F5C542&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E" height="200" alt="GitHub Contribution Streak">
+<img src="https://raw.githubusercontent.com/yasirawaan/yasirawaan/main/assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
 
 </a>
 
