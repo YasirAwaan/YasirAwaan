@@ -231,7 +231,7 @@ I'm **Yasir Awan**, a passionate Frontend Developer from **Pakistan** who enjoys
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yasir-awan/">
+<a href="https://www.linkedin.com/in/yasir-awaan/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
