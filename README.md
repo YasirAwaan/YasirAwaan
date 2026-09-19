@@ -106,14 +106,6 @@ I'm **Yasir Awan**, a passionate Frontend Developer from **Pakistan** who enjoys
 
 <div align="center">
 
-<a href="https://github.com/YasirAwaan">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAwaan&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph">
-
-</a>
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasirAwaan&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Contribution Streak">
 
 </div>
