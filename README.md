@@ -1,186 +1,210 @@
-<h1 align="center">Hi 👋, I'm Yasir Awan</h1>
+<div align="center">
 
-<h3 align="center">
-  🚀 Frontend Developer | 💻 Web Developer | 🇵🇰 Pakistan
-</h3>
+# 👋 Hi, I'm Yasir Awan
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasirawaan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+### 🚀 Frontend Developer | 💻 Web Developer | 🇵🇰 Pakistan
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yasirawaan&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/yasirawaan">
-    <img src="https://img.shields.io/github/followers/yasirawaan?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/yasirawaan?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers">
   </a>
   <a href="https://github.com/yasirawaan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yasirawaan?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/yasirawaan?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars">
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-```text
-💻 Frontend Developer
-🌱 Currently learning JavaScript
-⚛️ Future Goal: React.js
-🎨 Interested in modern UI/UX
-🚀 Building projects and improving every day
-☕ Chai + Code = ❤️
-🌙 Night Coder
-```
+I'm **Yasir Awan**, a passionate Frontend Developer from Pakistan who enjoys turning ideas into modern and interactive web experiences.
 
-* 🔭 Currently working on my **Personal Portfolio**
-* 🌱 Currently learning **JavaScript & Frontend Development**
-* 👯 Looking to collaborate on **E-commerce Projects**
+* 🔭 Currently working on **my personal portfolio**
+* 🌱 Currently learning **JavaScript & modern frontend development**
+* ⚛️ Future goal: **React.js**
+* 👯 Looking to collaborate on **E-commerce & frontend projects**
 * 💬 Ask me about **HTML, CSS, Bootstrap & JavaScript**
-* 📫 Reach me at **[yasirawan2847@gmail.com](mailto:yasirawan2847@gmail.com)**
-* ⚡ Fun fact: **🎮 Gamer | ☕ Chai Addict | 🌙 Night Coder | 🚀 Tech Enthusiast**
+* 📫 Email: **[yasirawan2847@gmail.com](mailto:yasirawan2847@gmail.com)**
+* 🎮 Gamer • ☕ Chai Addict • 🌙 Night Coder • 🚀 Tech Enthusiast
 
 ---
 
 # 🛠️ Tech Stack
 
-### 🌐 Frontend
+<div align="center">
 
-<p align="left">
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3">
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" alt="Bootstrap">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React">
-  </a>
-</p>
+### 🎨 Frontend Development
 
-### ⚙️ Tools
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Frontend Technologies">
 
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45" alt="Git">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="45" height="45" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="45" height="45" alt="VS Code">
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma">
-  </a>
-</p>
+<br><br>
+
+### ⚙️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools">
+
+<br><br>
+
+### 🚀 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=react" alt="React">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Frontend-Developer-0e75b6?style=for-the-badge&logo=code&logoColor=white" alt="Frontend Developer">
+<img src="https://img.shields.io/badge/JavaScript-Learning-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-Future%20Goal-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React">
+
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirawaan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirawaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages">
-</p>
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasirawaan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Yasir Awan GitHub Stats">
 
-# 📈 GitHub Contribution Activity
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirawaan&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages">
 
-<p align="center">
-  <a href="https://github.com/yasirawaan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirawaan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph">
-  </a>
-</p>
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yasirawaan&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=yasirawaan&theme=tokyonight&hide_border=true" alt="Yasir Awan GitHub Streak">
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=yasirawaan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+width="100%"
+alt="Yasir Awan Contribution Activity Graph"
+/>
+
+</div>
 
 ---
 
 # 📦 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirawaan&theme=tokyonight" width="100%" alt="GitHub Profile Details">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirawaan&theme=tokyonight" width="48%" alt="Repositories Per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasirawaan&theme=tokyonight" width="48%" alt="Most Commit Language">
-</p>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirawaan&theme=tokyonight"
+width="100%"
+alt="GitHub Profile Details"
+/>
+
+<br><br>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasirawaan&theme=tokyonight"
+width="48%"
+alt="Repositories Per Language"
+/>
+
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasirawaan&theme=tokyonight"
+width="48%"
+alt="Most Commit Language"
+/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/yasirawaan/NetFlix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=NetFlix&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YasirAwaan/NetFlix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=NetFlix&theme=tokyonight&hide_border=true" alt="Netflix Clone">
 </a>
 
-<a href="https://github.com/yasirawaan/modern-login-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=modern-login-ui&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YasirAwaan/modern-login-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=modern-login-ui&theme=tokyonight&hide_border=true" alt="Modern Login UI">
 </a>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/yasirawaan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=Hacking-Terminal-Simulator&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=Hacking-Terminal-Simulator&theme=tokyonight&hide_border=true" alt="Hacking Terminal Simulator">
 </a>
 
 <a href="https://github.com/yasirawaan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=UltraEdit&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirawaan&repo=Spotify-Clone&theme=tokyonight&hide_border=true" alt="Spotify Clone">
 </a>
 
+</div>
+
+<p align="center">
+  <a href="https://github.com/yasirawaan?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects">
+  </a>
 </p>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasirawaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" alt="GitHub Trophies">
-</p>
+<div align="center">
+
+<img 
+src="https://github-profile-trophy.vercel.app/?username=yasirawaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+width="100%"
+alt="GitHub Trophies"
+/>
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/yasir-awan/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://instagram.com/yasirawaan78">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="mailto:yasirawan2847@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" height="40" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-  💻 Code • Create • Inspire 🚀
-</h3>
+<div align="center">
 
-<p align="center">
-  <i>Building my skills one commit at a time.</i>
-</p>
+### 💻 Code • Create • Inspire 🚀
+
+<i>Building my skills one commit at a time.</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" alt="Footer">
+
+</div>
