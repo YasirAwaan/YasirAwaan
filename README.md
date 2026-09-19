@@ -115,20 +115,6 @@ I'm **Yasir Awan**, a passionate Frontend Developer from **Pakistan** who enjoys
 <div align="center">
 
 <a href="https://github.com/yasirawaan">
-<img src="https://github-readme-stats.vercel.app/api?username=yasirawaan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Yasir%27s%20GitHub%20Stats" height="190" alt="GitHub Statistics">
-</a>
-
-<a href="https://github.com/yasirawaan">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirawaan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" height="190" alt="Top Languages">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/yasirawaan">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasirawaan&theme=tokyonight" height="180" alt="GitHub Stats Summary">
 </a>
 
