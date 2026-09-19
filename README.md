@@ -249,6 +249,6 @@ Dedication
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" width="100%" alt="Footer Wave">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6fa5fc&height=120&section=footer" width="100%" alt="Footer Wave">
 
 </div>
