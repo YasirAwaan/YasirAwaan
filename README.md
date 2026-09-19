@@ -35,77 +35,44 @@ I'm **Yasir Awan**, a passionate Frontend Developer from **Pakistan** who enjoys
 
 ---
 
-# 🛠️ Tech Stack
+
+# 🛠️ **Tech Stack**
 
 <div align="center">
 
-### 🎨 Frontend Development
+<div style="background: linear-gradient(135deg, rgba(30, 144, 255, 0.15) 0%, rgba(0, 206, 209, 0.15) 100%); padding: 25px; border-radius: 12px; margin: 15px 0;">
 
-<a href="https://html.spec.whatwg.org/">
-<img src="https://skillicons.dev/icons?i=html" width="62" alt="HTML5">
-</a>
-&nbsp;&nbsp;&nbsp;
+### 🎨 **Frontend Development**
 
-<a href="https://www.w3.org/Style/CSS/">
-<img src="https://skillicons.dev/icons?i=css" width="62" alt="CSS3">
-</a>
-&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML5" style="filter: drop-shadow(0 0 8px rgba(30, 144, 255, 0.6));">
+<img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS3" style="filter: drop-shadow(0 0 8px rgba(30, 144, 255, 0.6));">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="60" alt="Bootstrap" style="filter: drop-shadow(0 0 8px rgba(30, 144, 255, 0.6));">
+<img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript" style="filter: drop-shadow(0 0 8px rgba(30, 144, 255, 0.6));">
+<img src="https://skillicons.dev/icons?i=react" width="60" alt="React.js" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
 
-<a href="https://getbootstrap.com/">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="62" alt="Bootstrap">
-</a>
-&nbsp;&nbsp;&nbsp;
+</div>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="62" alt="JavaScript">
-</a>
+<div style="background: linear-gradient(135deg, rgba(0, 206, 209, 0.15) 0%, rgba(255, 215, 0, 0.15) 100%); padding: 25px; border-radius: 12px; margin: 15px 0;">
 
-<br><br>
+### ⚙️ **Development Tools**
 
-### ⚙️ Development Tools
+<img src="https://skillicons.dev/icons?i=git" width="60" alt="Git" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
+<img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
+<img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
+<img src="https://skillicons.dev/icons?i=figma" width="60" alt="Figma" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
 
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="62" alt="Git">
-</a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="62" alt="GitHub">
-</a>
-&nbsp;&nbsp;&nbsp;
+</div>
 
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="62" alt="VS Code">
-</a>
-&nbsp;&nbsp;&nbsp;
+<div style="background: linear-gradient(135deg, rgba(255, 215, 0, 0.15) 0%, rgba(30, 144, 255, 0.15) 100%); padding: 25px; border-radius: 12px; margin: 15px 0;">
 
-<a href="https://www.figma.com/">
-<img src="https://skillicons.dev/icons?i=figma" width="62" alt="Figma">
-</a>
+### 🚀 **Currently Exploring**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=react" width="60" alt="React.js" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
+<img src="https://skillicons.dev/icons?i=typescript" width="60" alt="TypeScript" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
+<img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="Tailwind CSS" style="filter: drop-shadow(0 0 8px rgba(0, 206, 209, 0.6));">
 
-### 🚀 Currently Exploring
-
-<a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="62" alt="React">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=typescript" width="62" alt="TypeScript">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://vuejs.org/">
-<img src="https://skillicons.dev/icons?i=vue" width="62" alt="Vue.js">
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://tailwindcss.com/">
-<img src="https://skillicons.dev/icons?i=tailwind" width="62" alt="Tailwind CSS">
-</a>
-
+</div>
 </div>
 
 ---
@@ -217,13 +184,51 @@ I'm **Yasir Awan**, a passionate Frontend Developer from **Pakistan** who enjoys
 
 ---
 
-# 🏆 GitHub Achievements
+
+
+# 🏆 **GitHub Achievements**
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasirawaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="100%" alt="GitHub Achievements">
+<div style="background: linear-gradient(135deg, rgba(30, 144, 255, 0.15) 0%, rgba(255, 215, 0, 0.15) 100%); padding: 25px; border-radius: 15px; border: 2px solid #1E90FF;">
+
+<h3 style="color: #FFD700; text-shadow: 0 0 15px rgba(255, 215, 0, 0.5);">🎖️ Profile Highlights</h3>
+
+<table width="100%">
+<tr>
+<td align="center">
+<div style="background: rgba(30, 144, 255, 0.2); padding: 15px; border-radius: 8px; border-left: 3px solid #1E90FF;">
+<b style="font-size: 24px; color: #1E90FF;">82+</b><br/>
+<span style="color: #00CED1;">Total Commits</span>
+</div>
+</td>
+<td align="center">
+<div style="background: rgba(0, 206, 209, 0.2); padding: 15px; border-radius: 8px; border-left: 3px solid #00CED1;">
+<b style="font-size: 24px; color: #00CED1;">9</b><br/>
+<span style="color: #1E90FF;">Public Repos</span>
+</div>
+</td>
+<td align="center">
+<div style="background: rgba(255, 215, 0, 0.2); padding: 15px; border-radius: 8px; border-left: 3px solid #FFD700;">
+<b style="font-size: 24px; color: #FFD700;">2</b><br/>
+<span style="color: #1E90FF;">Years Active</span>
+</div>
+</td>
+<td align="center">
+<div style="background: rgba(30, 144, 255, 0.2); padding: 15px; border-radius: 8px; border-left: 3px solid #1E90FF;">
+<b style="font-size: 24px; color: #FFD700;">💯</b><br/>
+<span style="color: #00CED1;">Dedication</span>
+</div>
+</td>
+</tr>
+</table>
 
 </div>
+
+</div>
+
+
+
 
 ---
 
